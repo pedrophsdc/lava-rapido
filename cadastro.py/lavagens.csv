@@ -1,0 +1,6 @@
+Tipo Lavagem,Data,Dia,Hora,Pagamento,Funcionario
+Completa,2026-03-10,Tuesday,19:17:00,Cartão,
+Completa,2026-03-31,Tuesday,19:21:00,Dinheiro,gargamel
+Completa,2026-03-31,Tuesday,20:16:00,Dinheiro,gargamel
+Simples,2026-03-31,Tuesday,20:34:00,Dinheiro,pedro
+Completa,2026-03-17,Tuesday,21:21:00,Cartão,gargamel
